@@ -16,7 +16,7 @@
 
 後續計畫：追蹤人數達到我心中的各個小里程碑之後會釋出追加字型的更新、以及等寬字型等不同版本 💫
 
-- 👉 追蹤我的寫字帳 [白河蝦記Cyber Ink Flow](https://www.instagram.com/cyberinkflow/)
+- 👉 追蹤我的寫字帳 [白河蝦記Cyber Ink Flow](https://www.instagram.com/cyberinkflow/ :target="_blank")
 - 👉 追蹤我的故事帳 [道友，修仙嗎？](https://www.facebook.com/KinkyPsychics/)
 
 ### Bonus：
