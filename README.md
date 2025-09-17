@@ -30,8 +30,7 @@
 
 - GitHub Release  
   ```markdown
-  [下載 v👉 星光小熊貓幼兒體beta1.1](./StarPandaKidsBeta1.1.otf)
-
+  [下載 v👉 星光小熊貓幼兒體beta1.1](https://github.com/cyberinkflow/starpandakidsfonts/Starpandakidsbeta1.1.otf)
 
 
 ## 📜 授權方式
