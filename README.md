@@ -14,7 +14,7 @@
 ## 📥 下載之前
 
 ### ⭐️ 請追蹤白河的 Instagram 和粉專
-本字型為免費可商用字型，目前為 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，
+本字型為免費可商用字型，目前是 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，
 還請來到此地的旅人可以先順手按讚追蹤起來！
 
 若有錯誤要回報、有急需想要補什麼字的需求，也請透過 IG 或 FB 聯絡我(❁´◡`❁)
@@ -32,7 +32,7 @@
 
 ## 🔗 下載連結
 
-👉 請依需求下載對應版本：
+👉 請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
 
 - [星光小熊貓幼兒體 beta 1.1](https://github.com/cyberinkflow/StarPandaKidsFonts/blob/5483556d88c175cc8f26a077abcb0d8d37a7c106/StarPandaKidsBeta1.1.otf)
 
