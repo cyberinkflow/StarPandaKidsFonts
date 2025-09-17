@@ -1,6 +1,7 @@
-# ⭐️ 星光小熊貓幼兒體－星光敘事，熊貓寫字。
+# ⭐️ 星光小熊貓幼兒體－星光敘事，熊貓寫字。⭐️
 
-![title01](./images/title01.png)
+<img width="534" height="465" alt="title01" src="https://github.com/user-attachments/assets/d2842ff4-9d22-4255-a385-402849be1c8a" />
+
 
 👉 「星光小熊貓幼兒體」是白河透過 zi-hi.com 自製的第一個手寫字型。
 
@@ -12,7 +13,11 @@
 
 ## 📥 下載之前
 
-本字型為免費可商用字型，目前為 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，還請來到此地的旅人可以先順手按讚追蹤起來！若有錯誤要回報、有急需想要補什麼字的需求，也請透過 IG 或 FB 聯絡我(❁´◡`❁)
+### 請追蹤我的 Instagram 和粉專
+本字型為免費可商用字型，目前為 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，
+還請來到此地的旅人可以先順手按讚追蹤起來！
+
+若有錯誤要回報、有急需想要補什麼字的需求，也請透過 IG 或 FB 聯絡我(❁´◡`❁)
 
 後續計畫：追蹤人數達到各個小里程碑之後，會釋出追加字型的更新、以及等寬字型等不同版本 💫
 
@@ -59,13 +64,12 @@
 
 ## 🖼️ 應用範例
 
-以下是字型應用的部分展示：
+👉 以下是beta版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量（求救：實在搞不定 md 的排版，誠徵高手好用的語法讓這邊的預覽變得舒服一點 orz）
 
-![範例圖片 1](👉 ./images/example1.png)
-
-![範例圖片 2](👉 ./images/example2.png)
-
-![範例圖片 3](👉 https://via.placeholder.com/600x300.png)
+<img width="744" height="994" alt="sample01" src="https://github.com/user-attachments/assets/f6197c43-f500-446a-b88a-0325a4797cec" width="50%"/>
+<img width="744" height="994" alt="sample03" src="https://github.com/user-attachments/assets/853036c1-bd87-4266-9fc7-9a91e6f445cb" width="50%"/>
+<img width="744" height="994" alt="sample02" src="https://github.com/user-attachments/assets/5d55c5be-a43d-4679-aab1-c916ca896ec8" width="50%"/>
+<img width="540" height="675" alt="sample04" src="https://github.com/user-attachments/assets/92fca6f2-f27c-4279-af75-6584a3fef0d5" width="50%"/>
 
 
 
@@ -75,6 +79,3 @@
 
 
 
-## 📖 製作故事
-
-👉 請輸入：這個專案／字型是怎麼誕生的？靈感來源是什麼？設計過程中有什麼趣事？
