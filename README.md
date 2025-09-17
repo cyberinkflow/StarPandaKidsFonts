@@ -16,7 +16,7 @@
 
 後續計畫：追蹤人數達到我心中的各個小里程碑之後會釋出追加字型的更新、以及等寬字型等不同版本 💫
 
-- 👉 追蹤我的寫字帳 <a href="https://www.instagram.com/cyberinkflow/" target="_blank">白河蝦記Cyber Ink Flow</a>
+- 👉 追蹤我的寫字帳 <a href="https://www.instagram.com/cyberinkflow/" target="_blank">白河蝦記 Cyber Ink Flow</a>
 - 👉 追蹤我的故事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
 
   
@@ -30,7 +30,7 @@
 
 - GitHub Release  
   ```markdown
-  [下載 v👉 請輸入版本號](https://github.com/👉你的帳號/👉你的repo/releases/download/v👉版本號/👉檔名.zip)
+  [下載 v👉 星光小熊貓幼兒體beta1.1](./StarPandaKidsBeta1.1.otf)
 
 
 
