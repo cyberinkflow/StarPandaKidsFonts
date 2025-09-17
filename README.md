@@ -12,9 +12,9 @@
 
 ## 📥 下載之前
 
-本字型為免費可商用字型，目前為 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，還請來到此地的旅人可以先順手按讚追蹤起來！
+本字型為免費可商用字型，目前為 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，還請來到此地的旅人可以先順手按讚追蹤起來！若有錯誤要回報、有急需想要補什麼字的需求，也請透過 IG 或 FB 聯絡我(❁´◡`❁)
 
-後續計畫：追蹤人數達到我心中的各個小里程碑之後會釋出追加字型的更新、以及等寬字型等不同版本 💫
+後續計畫：追蹤人數達到各個小里程碑之後，會釋出追加字型的更新、以及等寬字型等不同版本 💫
 
 - 👉 追蹤我的寫字帳 <a href="https://www.instagram.com/cyberinkflow/" target="_blank">白河蝦記 Cyber Ink Flow</a>
 - 👉 追蹤我的故事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
