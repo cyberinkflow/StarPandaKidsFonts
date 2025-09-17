@@ -28,8 +28,7 @@
 
 👉 請依需求下載對應版本：
 
-- GitHub Release  
-  [星光小熊貓幼兒體 beta 1.1](https://github.com/cyberinkflow/StarPandaKidsFonts/blob/5483556d88c175cc8f26a077abcb0d8d37a7c106/StarPandaKidsBeta1.1.otf)
+- [星光小熊貓幼兒體 beta 1.1](https://github.com/cyberinkflow/StarPandaKidsFonts/blob/5483556d88c175cc8f26a077abcb0d8d37a7c106/StarPandaKidsBeta1.1.otf)
 
 
 ## 📜 授權方式
