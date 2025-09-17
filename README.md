@@ -68,9 +68,10 @@
 
 👉 以下是beta版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
 
+
 <div align=center>
   <img src="https://github.com/user-attachments/assets/f6197c43-f500-446a-b88a-0325a4797cec" width="200" />
-  <img src="https://github.com/user-attachments/assets/853036c1-bd87-4266-9fc7-9a91e6f445cb" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/de47ea05-7da0-4e27-b922-697c42cfdb8e" width="200" /> 
   <img src="https://github.com/user-attachments/assets/5d55c5be-a43d-4679-aab1-c916ca896ec8" width="200" />
   <img src="https://github.com/user-attachments/assets/92fca6f2-f27c-4279-af75-6584a3fef0d5" width="200" />
 </div>
