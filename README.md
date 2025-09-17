@@ -25,9 +25,9 @@
 - 👉 追蹤敘事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
 
   
-### ⭐️ Bonus：
-- [隨喜斗內白河去做個肩頸按摩](https://cyberinkflow.bobaboba.me)、喝杯奶茶，加速寫字進度
-- [小額捐贈慈善單位](https://www.17885.com.tw/GroupList.aspx?tid=115)，功德+++，促進善循環
+### ⭐️ Bonus 加分題：
+- [隨喜斗內白河去做個肩頸按摩](https://cyberinkflow.bobaboba.me)、喝杯奶茶增添燃料，加速寫字進度
+- 小額捐贈慈善單位，功德+++，促進善循環
 
 
 ## 🔗 下載連結
