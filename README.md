@@ -13,7 +13,7 @@
 
 ## 📥 下載之前
 
-### 請追蹤我的 Instagram 和粉專
+### ⭐️ 請追蹤我的 Instagram 和粉專
 本字型為免費可商用字型，目前為 beta 1.1 版本，後續的更新情報會透過我的 Instagram 和 Facebook 粉專發佈，
 還請來到此地的旅人可以先順手按讚追蹤起來！
 
@@ -25,7 +25,7 @@
 - 👉 追蹤我的故事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
 
   
-### Bonus（不強制）：
+### ⭐️ Bonus（不強制）：
 - [隨喜斗內白河去做個肩頸按摩、喝杯奶茶，加速寫字進度](https://cyberinkflow.bobaboba.me)
 - [小額捐贈慈善單位，功德+++，促進善循環](https://www.17885.com.tw/GroupList.aspx?tid=115)
 
