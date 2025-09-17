@@ -1,6 +1,6 @@
 # ⭐️ 星光小熊貓幼兒體－星光敘事，熊貓寫字。
 
-![title01](./images/title01.png){:target="_blank"}
+![title01](./images/title01.png)
 
 👉 「星光小熊貓幼兒體」是白河透過 zi-hi.com 自製的第一個手寫字型。
 
@@ -16,8 +16,8 @@
 
 後續計畫：追蹤人數達到我心中的各個小里程碑之後會釋出追加字型的更新、以及等寬字型等不同版本 💫
 
-- 👉 追蹤我的寫字帳 [白河蝦記Cyber Ink Flow](https://www.instagram.com/cyberinkflow/){:target="_blank"}
-- 👉 追蹤我的故事帳 [道友，修仙嗎？](https://www.facebook.com/KinkyPsychics/){:target="_blank"}
+- 👉 追蹤我的寫字帳 <a href="https://www.instagram.com/cyberinkflow/" target="_blank">白河蝦記Cyber Ink Flow</a>
+- 👉 追蹤我的故事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
 
   
 ### Bonus：
