@@ -1,6 +1,7 @@
 # ⭐️ 星光小熊貓幼兒體－星光敘事，熊貓寫字。⭐️
 
-<img width="534" height="465" alt="title01" src="https://github.com/user-attachments/assets/d2842ff4-9d22-4255-a385-402849be1c8a" />
+<img width="1979" height="881" alt="title" src="https://github.com/user-attachments/assets/061dfd2f-23c6-4b6a-8721-c8f2df88eb62" />
+
 
 
 👉 「星光小熊貓幼兒體」是寫字熊貓**白河**透過 [字嗨字體產生器](https://buttaiwan.github.io/writemyfont/) 自製的第一個手寫字型。
