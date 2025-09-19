@@ -4,7 +4,7 @@
 
 
 
-👉 「星光小熊貓幼兒體」是寫字熊貓**白河**透過 [字嗨字體產生器](https://buttaiwan.github.io/writemyfont/) 自製的第一個手寫字型。
+「星光小熊貓幼兒體」是寫字熊貓**白河**透過 [字嗨字體產生器](https://buttaiwan.github.io/writemyfont/) 自製的第一個手寫字型。
 
 初始風格設定是比較可愛又有點顫抖的小學生體筆觸，但是寫著寫著手越來越痠就越來越……隨緣佛系。不過寫字的初衷，還是希望可以傳達出一種無憂無慮、隨心所欲、童趣又稚氣的感覺，希望使用字型時可以感受到幼兒那種純真的快樂。
 
@@ -22,8 +22,8 @@
 
 後續計畫：追蹤人數達到各個小里程碑之後，會釋出追加字型的更新、以及等寬字型等不同版本，還有其他的小驚喜 💫
 
-- 👉 追蹤寫字帳 <a href="https://www.instagram.com/cyberinkflow/" target="_blank">白河蝦記 Cyber Ink Flow</a>
-- 👉 追蹤敘事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
+- 追蹤寫字帳 <a href="https://www.instagram.com/cyberinkflow/" target="_blank">白河蝦記 Cyber Ink Flow</a>
+- 追蹤敘事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>
 
   
 ### ⭐️ Bonus 加分題：
@@ -33,7 +33,7 @@
 
 ## 🔗 下載連結
 
-👉 請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
+請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
 
 - [星光小熊貓幼兒體 beta 1.1](https://github.com/cyberinkflow/StarPandaKidsFonts/raw/5483556d88c175cc8f26a077abcb0d8d37a7c106/StarPandaKidsBeta1.1.otf)
 
@@ -67,7 +67,7 @@
 
 ## 🖼️ 字體示例
 
-👉 以下是beta版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
+以下是beta版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
 
 
 <div align=center>
@@ -89,7 +89,7 @@
 
 ## 🔨 安裝方式
 
-👉 請參考 justfont 的 [字型安裝指南：下載點與安裝方法教學一次看](https://blog.justfont.com/2024/07/jf-font-installation-guide/)
+請參考 justfont 的 [字型安裝指南：下載點與安裝方法教學一次看](https://blog.justfont.com/2024/07/jf-font-installation-guide/)
 
 
 ## ✏ 幕後故事
