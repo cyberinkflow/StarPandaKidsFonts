@@ -1,6 +1,6 @@
 # ⭐️ 星光小熊貓體幼兒風－星光敘事，熊貓寫字。⭐️
 
-<img width="1979" height="881" alt="title" src="https://github.com/user-attachments/assets/061dfd2f-23c6-4b6a-8721-c8f2df88eb62" />
+<img width="1979" height="881" alt="title01" src="https://github.com/user-attachments/assets/01ce399e-4131-4069-b427-5cd1848e1e71" />
 
 
 
@@ -67,14 +67,13 @@
 
 ## 🖼️ 字體示例
 
-以下是beta版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
-
+以下是星光小熊貓體幼兒風 beta2.0 版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
 
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/f6197c43-f500-446a-b88a-0325a4797cec" width="200" />
-  <img src="https://github.com/user-attachments/assets/de47ea05-7da0-4e27-b922-697c42cfdb8e" width="200" /> 
-  <img src="https://github.com/user-attachments/assets/5d55c5be-a43d-4679-aab1-c916ca896ec8" width="200" />
-  <img src="https://github.com/user-attachments/assets/92fca6f2-f27c-4279-af75-6584a3fef0d5" width="200" />
+  <img src="https://github.com/user-attachments/assets/0953ec1d-9edc-4e34-b80e-5d57dfb9f815" width="200" />
+  <img src="https://github.com/user-attachments/assets/f8d3454b-4243-445d-92ad-61f863d215a4" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/1effa3f4-ccfb-491e-b69e-a87a47e02aa5" width="200" />
+  <img src="https://github.com/user-attachments/assets/effbb708-8ec6-47df-aca4-da58a0fc65dd" width="200" />
 </div>
 
 
@@ -103,7 +102,7 @@
 
 不過，所有的一時興起應該也都是有原因的吧，我就當作這是某種大宇宙的意志，為的是讓我結束隱居模式，和更多不同的人相遇，以及讓我寫的字能有更多的可能。能看到這裡的人都很優秀，我也是沒想到真的會有人看啊 😂
 
-目前的目標是先把星光小熊貓幼兒體所有的字都完成，未來看看有沒有再一次的一時興起和剛好，來書寫更多不同風格的字體。我是喜歡寫字且這輩子都在寫字的熊貓白河。感謝協助我進行字型測試、提供建議的朋友們，感謝製作字體產生器的字嗨，最後，再次歡迎每一位來到此處的旅人，祝各位順心快樂，和幼兒一樣，長保赤子之心。
+目前的目標是先把星光小熊貓幼兒體所有的字都完成，未來看看有沒有再一次的一時興起和剛好，來書寫更多不同風格的字體。我是喜歡寫字且這輩子都在寫字的熊貓白河。感謝協助我進行字型測試、提供建議的朋友們，感謝製作字體產生器的字嗨，最後，再次歡迎每一位來到此處的旅人，祝各位順心快樂，和幼兒一樣，永保赤子之心。
 
 
 
