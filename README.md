@@ -35,7 +35,7 @@
 
 請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
 
-- [星光小熊貓體幼兒風 beta 2.0 即將上線]
+- [星光小熊貓體幼兒風 beta 2.0](https://github.com/cyberinkflow/StarPandaKidsFonts/raw/e382b0a9034b79013c168ea3d63874657824f705/StarPandaKidsBeta2.0.otf)
 
 
 ## 📜 授權方式
