@@ -1,7 +1,6 @@
 # ⭐️ 星光小熊貓體幼兒風－星光敘事，熊貓寫字。⭐️
 
-<img width="1979" height="881" alt="title01" src="https://github.com/user-attachments/assets/01ce399e-4131-4069-b427-5cd1848e1e71" />
-
+<img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/385146a2-fa14-4574-8519-0a328edaa415" />
 
 
 「星光小熊貓體幼兒風」是寫字熊貓**白河**透過字嗨字體產生器自製的第一個手寫字型。
