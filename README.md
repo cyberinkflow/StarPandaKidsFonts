@@ -35,7 +35,7 @@
 
 請依需求下載對應版本（目前僅有不等寬字型，可以追蹤IG、粉專，獲得後續等寬字型、完整版釋出情報ㄛ）
 
-- [星光小熊貓體幼兒風 beta 2.0](https://github.com/cyberinkflow/StarPandaKidsFonts/raw/e382b0a9034b79013c168ea3d63874657824f705/StarPandaKidsBeta2.0.otf)
+- [星光小熊貓體幼兒風 beta 2.0](https://github.com/cyberinkflow/StarPandaKidsFonts/blob/31e82f487dbc73a1d30ca01bb522d49689a941b7/StarPandaKidsBeta2.0.otf)
 
 
 ## 📜 授權方式
@@ -70,10 +70,10 @@
 以下是星光小熊貓體幼兒風 beta2.0 版字型實際展示，書寫甄嬛傳台詞、周星馳台詞、佛經幾句、還有雅量。
 
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/0953ec1d-9edc-4e34-b80e-5d57dfb9f815" width="200" />
-  <img src="https://github.com/user-attachments/assets/f8d3454b-4243-445d-92ad-61f863d215a4" width="200" /> 
-  <img src="https://github.com/user-attachments/assets/1effa3f4-ccfb-491e-b69e-a87a47e02aa5" width="200" />
-  <img src="https://github.com/user-attachments/assets/effbb708-8ec6-47df-aca4-da58a0fc65dd" width="200" />
+  <img src="https://github.com/user-attachments/assets/5484bb34-699c-43f2-a73f-223ee118528c" width="200" />
+  <img src="https://github.com/user-attachments/assets/42d59a32-96f3-4332-b95d-3d09b2b3bd71" width="200" /> 
+  <img src="https://github.com/user-attachments/assets/01cb347f-b889-4580-a6c1-f2e2f4ce9648" width="200" />
+  <img src="https://github.com/user-attachments/assets/e598f8b0-3ac8-4319-bf39-f74b70ad5e81" width="200" />
 </div>
 
 
@@ -81,7 +81,7 @@
 
 ### 更新紀錄
 - 2025.09.10 - 星光小熊貓體幼兒風 Beta 1.1 封測中
-- 2025.09.27 - 星光小熊貓體幼兒風 Beta 2.0 正式發布！將行書、古字寫法修改為標準字型、修改英文和數字的大小。
+- 2025.09.28 - 星光小熊貓體幼兒風 Beta 2.0 正式發布！將行書、古字寫法修改為標準字型、修改英文和數字的大小。
 
 ### 製作進度
 - 2025.09 - 星光小熊貓體幼兒風完整版 書寫製作中
