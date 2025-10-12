@@ -3,7 +3,7 @@
 <img width="1979" height="881" alt="banner01" src="https://github.com/user-attachments/assets/385146a2-fa14-4574-8519-0a328edaa415" />
 
 
-「星光小熊貓體幼兒風」是寫字熊貓**白河**透過字嗨字體產生器自製的第一個手寫字型。🐾
+嗨，這裡是白河寫字運銷合作社，「星光小熊貓體幼兒風」是我透過字嗨字體產生器自製的第一個手寫字型。🐾
 
 初始風格設定是比較可愛又有點顫抖的小學生筆觸，但是寫著寫著手越來越痠就越來越……隨緣佛系。不過寫字的初衷，還是希望可以傳達出一種無憂無慮、隨心所欲、童趣又稚氣的感覺，希望使用字型時可以感受到幼兒那種純真的快樂。
 
@@ -21,7 +21,7 @@
 
 後續計畫：追蹤人數達到各個小里程碑之後，會釋出追加字型的更新、以及等寬字型等不同版本，還有其他的小驚喜 💫
 
-- 追蹤寫字帳 <a href="https://www.instagram.com/pandashaji.coop/" target="_blank">白河寫字運銷合作社</a> 
+- 追蹤寫字帳 <a href="https://www.instagram.com/pandashaji.coop/" target="_blank">白河寫字運銷合作社</a>：各種廢話文學與能量語錄（好衝突）
 - 追蹤敘事帳 <a href="https://www.facebook.com/KinkyPsychics/" target="_blank">道友，修仙嗎？</a>：看看讓熊貓人生一個甩尾大轉彎的修仙之旅（？）🐾
 
   
